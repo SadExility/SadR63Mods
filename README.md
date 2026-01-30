@@ -83,15 +83,6 @@ This repository does **not** host or create mods — it only catalogs and presen
 
 ---
 
-## 🚀 Deployment
-You can host this site easily on:
-- GitHub Pages
-- Netlify
-- Vercel
-- Any static hosting service
-
----
-
 ## 👤 Author
 **Made by @SadExility**
 
